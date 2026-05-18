@@ -10,8 +10,7 @@
 
 ## Abstract
 The paper describes statistical methods for the regression analysis of
-spatial data when some spatial information is missing. Our numerical ex-
-ample comes from the results of the 1988 carbon dating of the Shroud of
+spatial data when some spatial information is missing. Our numerical example comes from the results of the 1988 carbon dating of the Shroud of
 Turin (TS). The statistical problem is that the dating was performed at three
 laboratories, which each received a sample from the Shroud. The physical
 location on the TS of these samples is known. However, the data consist of
