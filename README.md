@@ -1,6 +1,6 @@
 # Partially labelled regression analysis: dating the Shroud of Turin using the ‘raw’ data
 
-**Marco Riani**<sup>1</sup>*, **Anthony C. Atkinson**<sup>2</sup>, **Aldo Corbellini**<sup>1</sup>* , **Paolo Di Lazzaro**<sup>3</sup>
+**Marco Riani**<sup>1</sup>, **Anthony C. Atkinson**<sup>2</sup>, **Aldo Corbellini**<sup>1</sup> , **Paolo Di Lazzaro**<sup>3</sup>
 
 <sup>1</sup> Department of Economics and Management and Interdepartmental Research Centre for Robust Statistics
 
