@@ -27,7 +27,7 @@ on shelf location are not available.
 ## Keywords:
 Computer-intensive methods; clustering; data display; missing information.
 
-
+![Graphical abstract](logoRACD.jpg)
 ---
 
 In the table below you can find  the original source (MATLAB live script): .mlx file and the corresponding .ipynb file. 
@@ -68,8 +68,8 @@ The following section contains a table with the source code that enables the rep
 
 ![GitHub top language](https://img.shields.io/github/languages/top/UniprJRC/RobMultAnalysis)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UniprJRC/RobMultAnalysis)
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183739-robust-multivariate-analysis-with-missing-observations)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183929-partially-labelled-regression-dating-the-shroud-of-turin)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/UniprJRC/RobMultAnalysis)](https://github.com/UniprJRC/RobMultAnalysis/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/UniprJRC/RobMultAnalysis)](https://github.com/UniprJRC/Shroud/graphs/contributors)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/UniprJRC/RobMultAnalysis/graphs/commit-activity)
 ![master](https://img.shields.io/github/last-commit/badges/shields/master)
